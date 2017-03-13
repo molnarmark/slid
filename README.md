@@ -1,4 +1,4 @@
-**Slid**
+**Slid** :speech_balloon:
 ========
 Slid is a fast static file server with routing.
 
